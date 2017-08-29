@@ -80,7 +80,7 @@ def build(bld):
             os.path.join('..', bld_project, 'src', 'module', 'cansignal'),
             os.path.join('..', bld_project, 'src', 'module', 'config'),
             os.path.join('..', bld_project, 'src', 'module', 'contactor'),
-            os.path.join('..', bld_project, 'src', 'module', 'eeprom'),
+            os.path.join('..', bld_project, 'src', 'module', 'nvram'),
             os.path.join('..', bld_project, 'src', 'module', 'io'),
             os.path.join('..', bld_project, 'src', 'module', 'mcu'),
             os.path.join('..', bld_project, 'src', 'module', 'rtc'),
